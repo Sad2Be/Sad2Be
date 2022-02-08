@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sad2Be
+- 👋 Hi, I’m @Sad2Be - Vladimir
 - 👀 I’m interested in game developing 
 - 🌱 I’m currently learning how to manage process of game developing
 - 💞️ I’m looking to collaborate on some one, who just started as im
